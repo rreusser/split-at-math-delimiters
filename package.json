@@ -1,0 +1,19 @@
+{
+  "name": "split-at-math-delimiters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rreusser/split-at-math-delimiters.git"
+  },
+  "author": "Ricky Reusser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rreusser/split-at-math-delimiters/issues"
+  },
+  "homepage": "https://github.com/rreusser/split-at-math-delimiters#readme"
+}
